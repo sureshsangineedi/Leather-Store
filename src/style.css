@@ -7,8 +7,8 @@ margin:0;
 .header{
 display:flex;
 justify-content:space-between;
-padding:20px;
-background:black;
+padding:5px;
+background:rgb(105, 89, 89);
 color:white;
 }
 .search{
